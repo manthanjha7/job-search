@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # LinkedIn Profile Update Guide
 
 > Copy-paste each section below into your LinkedIn profile. Sections marked with [REPLACE] mean overwrite what's currently there. Sections marked with [ADD] mean create new entries.

@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # STAR Story Bank -- Manthan Jha
 
 > Full STAR (Situation, Task, Action, Result) narratives extracted from resume bullets.

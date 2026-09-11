@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Aakash Gupta Job Search OS vs Our /jobs Skill -- Gap Analysis
 
 **Date:** 2026-04-21

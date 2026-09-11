@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Forward Deployed Engineer (FDE) — Career Research for Manthan Jha
 
 > **SUPERSEDED, 1 September 2026.** Manthan ruled FDE out on travel grounds: ~68% of postings require travel, 50-75% of time is embedded at customer sites, and he wants a desk job. The role recommendation below is dead. **What survives:** the skills analysis, the comp tables, and section 4's bar are all still accurate and still apply to the retargeted direction, **AI Engineer / Product Engineer** — desk-based, remote-friendly, same stack (RAG, agents, evals, production Python/TS/SQL), most of the comp premium, none of the embedding. Read this doc for the skills and market data, not for the title.

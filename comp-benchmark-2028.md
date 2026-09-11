@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Compensation Benchmark — target season Dec 2027, graduation 2028
 
 > Built 1 September 2026. Every number below is web-sourced and cited. Refresh before the Dec 2027 placement season; comp data ages badly.

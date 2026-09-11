@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Job Pipeline Tracker
 
 > Statuses: `DISCOVERED` -> `SHORTLISTED` -> `APPLIED` -> `INTERVIEWING` -> `OFFER` / `REJECTED` / `EXPIRED` / `PASSED`
@@ -8,8 +15,8 @@
 
 | Company | Role | Status | Fit | Location | Updated | URL | Notes |
 |---------|------|--------|-----|----------|---------|-----|-------|
-| slice | Product Manager Intern | DISCOVERED | 64 | Bengaluru (On-site) | 2026-08-20 | [link](https://www.linkedin.com/jobs/view/4455706866/) | **DREAM T1.** Typed Internship, no enrolment conflict. 1612 applicants, 1196 in the past day. 5b: VERIFY, no comp stated. Score is a rubric artifact: bare title, no stated requirements, so skills scored 5/30. Rank first on merit. Distinct from the mid-level `slice PM` row of 2026-04-14. |
-| PrepClever | Product Operations Intern | DISCOVERED | 80 | Gurugram (On-site) | 2026-08-20 | [link](https://www.linkedin.com/jobs/view/4454260930/) | EdTech. JD names Claude Code. VERIFY FIRST: typed Full-time on-site while enrolled to 2028, and no comp stated against a INR 10,000/mo floor. 89 applicants. |
+| slice | Product Manager Intern | STALE | 64 | Bengaluru (On-site) | 2026-08-20 | [link](https://www.linkedin.com/jobs/view/4455706866/) | **DREAM T1.** Typed Internship, no enrolment conflict. 1612 applicants, 1196 in the past day. 5b: VERIFY, no comp stated. Score is a rubric artifact: bare title, no stated requirements, so skills scored 5/30. Rank first on merit. Distinct from the mid-level `slice PM` row of 2026-04-14. |
+| PrepClever | Product Operations Intern | EXPIRED | 80 | Gurugram (On-site) | 2026-08-20 | [link](https://www.linkedin.com/jobs/view/4454260930/) | EdTech. JD names Claude Code. VERIFY FIRST: typed Full-time on-site while enrolled to 2028, and no comp stated against a INR 10,000/mo floor. 89 applicants. |
 | AlphaSense | Product Manager I | DISCOVERED | 88 | Remote India | 2026-06-20 | [link](https://job-boards.greenhouse.io/alphasense/jobs/8598282002) | STRONG. Finrep thesis overlap — competes w/ Intelligize/LexisNexis (you displaced them). Top pick. Pune/Delhi variants too. |
 | Atlys | Founder's Office Intern | DISCOVERED | 73 | Delhi (6-day, onsite) | 2026-06-21 | [link](https://www.linkedin.com/jobs/view/4429624521/) | YC travel/fintech. 0-6mo/freshers. Session-replay/journey analysis = your fit. Referral: Dharmesh Manglani (IIT-R). Ops-heavy. |
 | Times Internet | Intern Product (Lending) | DISCOVERED | 77 | Noida | 2026-06-20 | [link](https://www.linkedin.com/jobs/view/4428536459/) | Fintech 0-to-1, RBI NBFC, 6mo. Posted today. IIT-R alumni. |

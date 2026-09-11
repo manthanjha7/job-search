@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Seen Jobs Tracker
 <!-- URLs of previously fetched jobs to avoid duplicates -->
 

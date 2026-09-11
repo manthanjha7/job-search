@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Interview transcript — Peakflow (PM, voice AI for payment collections)
 
 > Company: Peakflow (they refer to "Peakflow service" — voice AI for overdue payment collections; clients = finance departments)

@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Foundations Roadmap — Interview-Ready Fundamentals (AI Engineer / AI-PM)
 
 > **Retargeted 1 September 2026.** FDE was ruled out on travel grounds; the target is now the desk-based **AI Engineer / Product Engineer**. The library below needed no content change — Tier 0 (evals, agent anatomy, RAG) *is* the AI-engineering core. Only two things changed: the title, and the practice track (below) now drills an AI-engineering loop — build-with-an-API, debug-a-RAG-pipeline, eval-design — instead of the FDE "vague customer problem" decomposition round.

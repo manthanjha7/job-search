@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Portfolio Copy Guide -- Ready to Paste into Framer
 
 > Open your Framer editor at manthansingj.framer.website and paste these section by section.

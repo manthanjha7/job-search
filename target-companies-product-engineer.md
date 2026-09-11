@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Target Companies — hiring at graduation (2028)
 
 > Rebuilt 1 September 2026 around the correct frame: **companies that hire new graduates**, for a 2028 exit. Target role: Product Engineer / AI Engineer / SDE, desk-based IC.

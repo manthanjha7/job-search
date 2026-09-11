@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # FDE Roadmap — Manthan Jha
 
 > Created 18 July 2026. Feeds [[Jobs/FDE/fde-transition-research-2026-07-18]] into a dated plan.

@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Job Search
 
 My working system for finding, evaluating, and pursuing product-management and forward-deployed-engineering roles.

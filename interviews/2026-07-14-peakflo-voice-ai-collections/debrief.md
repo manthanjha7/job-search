@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Interview Debrief — Peakflo (PM Intern, Agentic Finance / Voice AI for Collections)
 
 > **Date:** 14 July 2026 · 17:30 IST

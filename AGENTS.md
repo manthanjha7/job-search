@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Jobs/
 
 Career life area: PM/APM job search pipeline, application materials, interview prep. Driven by the `jobs`, `resume-tailor`, `outreach`, `interview` (prep/mock/debrief, merged 14 Aug 2026), and `negotiate` skills.

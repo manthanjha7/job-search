@@ -1,3 +1,10 @@
+---
+created: 2026-09-07
+area: career
+type: note
+tags: []
+---
+
 # Resume Base -- Manthan Jha
 
 > Master file containing ALL resume bullets and experiences. The /resume-tailor skill picks from this pool to create JD-specific resumes. Never fabricate -- only select, reorder, and reframe.
